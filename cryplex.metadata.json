@@ -1,0 +1,32 @@
+{
+    "name": "Cryplex Token",
+    "symbol": "CPX",
+    "description": "Cryplex Token",
+    "image": "https://raw.githubusercontent.com/cryplexai/sol-token/refs/heads/main/token-logo.png",
+    "external_url": "https://cryplex.ai",
+    "attributes": [
+      {
+        "trait_type": "Type",
+        "value": "Cryplex Token"
+      }
+    ],
+    "collection": {
+      "name": "Cryplex Token",
+      "family": "Cryplex Token"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://raw.githubusercontent.com/cryplexai/sol-token/refs/heads/main/token-logo.png",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "4XNrad1sSpQXtRr5P149UtaYdmhWzFWfdX548msQZu6U"
+        }
+      ]
+    }
+  } 
+  
