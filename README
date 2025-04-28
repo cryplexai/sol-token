@@ -1,6 +1,0 @@
-Solana Token Manager is a repository for managing the SPL (Solana Program Library) tokens that I have issued.
-It includes:
-	•	Detailed information about the tokens (name, symbol, decimals, supply, etc.)
-	•	Standardized metadata JSON files for updating or registering tokens on platforms like Solscan, SolanaFM, and various wallets
-	•	Deployment guides, metadata updates, and token management using tools such as Metaboss and Solana CLI
-	•	Scripts to automate metadata updates, token distribution, and mint authority management
